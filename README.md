@@ -1,6 +1,6 @@
 - 👋 Hi, I’m 이혜빈 Lee Hyebin!
 - 👀 I’m interested in reading( ͡° ͜ʖ ͡°)
-- 🌱 I’m currently learning java(spring), python(flask) and kotlin so on.
+- 🌱 I’m currently learning java(spring), python(flask) and flutter so on.
 - 💞️ I’m looking to collaborate on ...(Nothing has been decided yet)
 - 📫 How to reach me ... -> "redbeanbread031@gmail.com" 
 
